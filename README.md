@@ -1,7 +1,7 @@
 ## The XBPS source packages collection
 
 This repository contains the XBPS source packages collection to build binary packages
-for the XOVR Linux distribution. XOVR is a build fork of the Void Linux distrubution.
+for the XOVR Linux distribution. XOVR is a build fork of the Void Linux distribution.
 
 The included `xbps-src` script will fetch and compile the sources, and install its
 files into a `fake destdir` to generate XBPS binary packages that can be installed
