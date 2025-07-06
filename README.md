@@ -449,7 +449,7 @@ try other [chroot methods](#chroot-methods).
 
 Clone the `xovr-packages` git repository:
 
-    $ git clone https://github.com/xovr-linux/xovr-packages.git
+    $ git clone https://github.com/xovrlabs/xovr-packages.git
 
 and `xbps-src` should be fully functional; just start the `bootstrap` process, i.e:
 
